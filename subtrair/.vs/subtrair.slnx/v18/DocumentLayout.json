@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joao.maoqui\\Documents\\C#\\subtrair\\",
+  "WorkspaceRootPath": "C:\\Users\\joao.maoqui\\Documents\\GitHub\\logica_Csharp\\subtrair\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F52024DC-731D-40B8-BF37-8C5FB299C5B5}|subtrair\\subtrair.csproj|c:\\users\\joao.maoqui\\documents\\c#\\subtrair\\subtrair\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F52024DC-731D-40B8-BF37-8C5FB299C5B5}|subtrair\\subtrair.csproj|c:\\users\\joao.maoqui\\documents\\github\\logica_csharp\\subtrair\\subtrair\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52024DC-731D-40B8-BF37-8C5FB299C5B5}|subtrair\\subtrair.csproj|solutionrelative:subtrair\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joao.maoqui\\Documents\\C#\\subtrair\\subtrair\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.maoqui\\Documents\\GitHub\\logica_Csharp\\subtrair\\subtrair\\Program.cs",
               "RelativeDocumentMoniker": "subtrair\\Program.cs",
-              "ToolTip": "C:\\Users\\joao.maoqui\\Documents\\C#\\subtrair\\subtrair\\Program.cs",
+              "ToolTip": "C:\\Users\\joao.maoqui\\Documents\\GitHub\\logica_Csharp\\subtrair\\subtrair\\Program.cs",
               "RelativeToolTip": "subtrair\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-10T13:38:31.815Z",
               "EditorCaption": ""
