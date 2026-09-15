@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.maoqui\\Documents\\C#\\estoque_vinho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8D562A-F03D-42E5-B422-07683F3A1DCC}|estoque_vinho\\estoque_vinho.csproj|c:\\users\\joao.maoqui\\documents\\c#\\estoque_vinho\\estoque_vinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8D562A-F03D-42E5-B422-07683F3A1DCC}|estoque_vinho\\estoque_vinho.csproj|solutionrelative:estoque_vinho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.maoqui\\Documents\\C#\\estoque_vinho\\estoque_vinho\\Program.cs",
+              "RelativeDocumentMoniker": "estoque_vinho\\Program.cs",
+              "ToolTip": "C:\\Users\\joao.maoqui\\Documents\\C#\\estoque_vinho\\estoque_vinho\\Program.cs",
+              "RelativeToolTip": "estoque_vinho\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:20:59.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

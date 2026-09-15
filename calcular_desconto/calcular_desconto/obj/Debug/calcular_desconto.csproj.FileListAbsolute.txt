@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\calcular_desconto\calcular_desconto\obj\Debug\calcular_desconto.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\calcular_desconto\calcular_desconto\obj\Debug\calcular_desconto.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\calcular_desconto\calcular_desconto\bin\Debug\calcular_desconto.exe.config
+C:\Users\joao.maoqui\Documents\C#\calcular_desconto\calcular_desconto\bin\Debug\calcular_desconto.exe
+C:\Users\joao.maoqui\Documents\C#\calcular_desconto\calcular_desconto\bin\Debug\calcular_desconto.pdb
+C:\Users\joao.maoqui\Documents\C#\calcular_desconto\calcular_desconto\obj\Debug\calcular_desconto.exe
+C:\Users\joao.maoqui\Documents\C#\calcular_desconto\calcular_desconto\obj\Debug\calcular_desconto.pdb

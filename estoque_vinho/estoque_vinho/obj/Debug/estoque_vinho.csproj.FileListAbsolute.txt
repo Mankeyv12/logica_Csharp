@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\estoque_vinho\estoque_vinho\obj\Debug\estoque_vinho.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\estoque_vinho\estoque_vinho\obj\Debug\estoque_vinho.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\estoque_vinho\estoque_vinho\bin\Debug\estoque_vinho.exe.config
+C:\Users\joao.maoqui\Documents\C#\estoque_vinho\estoque_vinho\bin\Debug\estoque_vinho.exe
+C:\Users\joao.maoqui\Documents\C#\estoque_vinho\estoque_vinho\bin\Debug\estoque_vinho.pdb
+C:\Users\joao.maoqui\Documents\C#\estoque_vinho\estoque_vinho\obj\Debug\estoque_vinho.exe
+C:\Users\joao.maoqui\Documents\C#\estoque_vinho\estoque_vinho\obj\Debug\estoque_vinho.pdb
