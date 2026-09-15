@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\pizza\pizza\bin\Debug\pizza.exe.config
+C:\Users\joao.maoqui\Documents\C#\pizza\pizza\bin\Debug\pizza.exe
+C:\Users\joao.maoqui\Documents\C#\pizza\pizza\bin\Debug\pizza.pdb
+C:\Users\joao.maoqui\Documents\C#\pizza\pizza\obj\Debug\pizza.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\pizza\pizza\obj\Debug\pizza.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\pizza\pizza\obj\Debug\pizza.exe
+C:\Users\joao.maoqui\Documents\C#\pizza\pizza\obj\Debug\pizza.pdb

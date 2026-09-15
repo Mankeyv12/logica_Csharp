@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\media escolar\media escolar\bin\Debug\media escolar.exe.config
+C:\Users\joao.maoqui\Documents\C#\media escolar\media escolar\bin\Debug\media escolar.exe
+C:\Users\joao.maoqui\Documents\C#\media escolar\media escolar\bin\Debug\media escolar.pdb
+C:\Users\joao.maoqui\Documents\C#\media escolar\media escolar\obj\Debug\media escolar.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\media escolar\media escolar\obj\Debug\media escolar.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\media escolar\media escolar\obj\Debug\media escolar.exe
+C:\Users\joao.maoqui\Documents\C#\media escolar\media escolar\obj\Debug\media escolar.pdb

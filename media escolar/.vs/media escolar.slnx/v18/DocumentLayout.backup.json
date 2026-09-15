@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.maoqui\\Documents\\C#\\media escolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F796658-F88F-4BA0-BA73-48ECC895D1D3}|media escolar\\media escolar.csproj|c:\\users\\joao.maoqui\\documents\\c#\\media escolar\\media escolar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F796658-F88F-4BA0-BA73-48ECC895D1D3}|media escolar\\media escolar.csproj|solutionrelative:media escolar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.maoqui\\Documents\\C#\\media escolar\\media escolar\\Program.cs",
+              "RelativeDocumentMoniker": "media escolar\\Program.cs",
+              "ToolTip": "C:\\Users\\joao.maoqui\\Documents\\C#\\media escolar\\media escolar\\Program.cs*",
+              "RelativeToolTip": "media escolar\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:11:00.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

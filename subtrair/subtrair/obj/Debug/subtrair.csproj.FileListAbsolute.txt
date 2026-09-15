@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\subtrair\subtrair\bin\Debug\subtrair.exe.config
+C:\Users\joao.maoqui\Documents\C#\subtrair\subtrair\bin\Debug\subtrair.exe
+C:\Users\joao.maoqui\Documents\C#\subtrair\subtrair\bin\Debug\subtrair.pdb
+C:\Users\joao.maoqui\Documents\C#\subtrair\subtrair\obj\Debug\subtrair.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\subtrair\subtrair\obj\Debug\subtrair.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\subtrair\subtrair\obj\Debug\subtrair.exe
+C:\Users\joao.maoqui\Documents\C#\subtrair\subtrair\obj\Debug\subtrair.pdb

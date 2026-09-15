@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\antecessor e sucessor\antecessor e sucessor\bin\Debug\antecessor e sucessor.exe.config
+C:\Users\joao.maoqui\Documents\C#\antecessor e sucessor\antecessor e sucessor\bin\Debug\antecessor e sucessor.exe
+C:\Users\joao.maoqui\Documents\C#\antecessor e sucessor\antecessor e sucessor\bin\Debug\antecessor e sucessor.pdb
+C:\Users\joao.maoqui\Documents\C#\antecessor e sucessor\antecessor e sucessor\obj\Debug\antecessor e sucessor.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\antecessor e sucessor\antecessor e sucessor\obj\Debug\antecessor e sucessor.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\antecessor e sucessor\antecessor e sucessor\obj\Debug\antecessor e sucessor.exe
+C:\Users\joao.maoqui\Documents\C#\antecessor e sucessor\antecessor e sucessor\obj\Debug\antecessor e sucessor.pdb
