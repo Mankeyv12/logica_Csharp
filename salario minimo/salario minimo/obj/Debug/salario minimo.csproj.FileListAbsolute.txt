@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\salario minimo\salario minimo\bin\Debug\salario minimo.exe.config
+C:\Users\joao.maoqui\Documents\C#\salario minimo\salario minimo\bin\Debug\salario minimo.exe
+C:\Users\joao.maoqui\Documents\C#\salario minimo\salario minimo\bin\Debug\salario minimo.pdb
+C:\Users\joao.maoqui\Documents\C#\salario minimo\salario minimo\obj\Debug\salario minimo.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\salario minimo\salario minimo\obj\Debug\salario minimo.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\salario minimo\salario minimo\obj\Debug\salario minimo.exe
+C:\Users\joao.maoqui\Documents\C#\salario minimo\salario minimo\obj\Debug\salario minimo.pdb

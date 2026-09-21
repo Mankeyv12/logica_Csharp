@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\cadastros bandas\cadastros bandas\bin\Debug\cadastros bandas.exe.config
+C:\Users\joao.maoqui\Documents\C#\cadastros bandas\cadastros bandas\bin\Debug\cadastros bandas.exe
+C:\Users\joao.maoqui\Documents\C#\cadastros bandas\cadastros bandas\bin\Debug\cadastros bandas.pdb
+C:\Users\joao.maoqui\Documents\C#\cadastros bandas\cadastros bandas\obj\Debug\cadastros bandas.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\cadastros bandas\cadastros bandas\obj\Debug\cadastros bandas.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\cadastros bandas\cadastros bandas\obj\Debug\cadastros bandas.exe
+C:\Users\joao.maoqui\Documents\C#\cadastros bandas\cadastros bandas\obj\Debug\cadastros bandas.pdb

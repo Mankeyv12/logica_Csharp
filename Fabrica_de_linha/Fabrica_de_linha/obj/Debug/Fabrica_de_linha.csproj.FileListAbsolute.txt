@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\Fabrica_de_linha\Fabrica_de_linha\bin\Debug\Fabrica_de_linha.exe.config
+C:\Users\joao.maoqui\Documents\C#\Fabrica_de_linha\Fabrica_de_linha\bin\Debug\Fabrica_de_linha.exe
+C:\Users\joao.maoqui\Documents\C#\Fabrica_de_linha\Fabrica_de_linha\bin\Debug\Fabrica_de_linha.pdb
+C:\Users\joao.maoqui\Documents\C#\Fabrica_de_linha\Fabrica_de_linha\obj\Debug\Fabrica_de_linha.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\Fabrica_de_linha\Fabrica_de_linha\obj\Debug\Fabrica_de_linha.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\Fabrica_de_linha\Fabrica_de_linha\obj\Debug\Fabrica_de_linha.exe
+C:\Users\joao.maoqui\Documents\C#\Fabrica_de_linha\Fabrica_de_linha\obj\Debug\Fabrica_de_linha.pdb

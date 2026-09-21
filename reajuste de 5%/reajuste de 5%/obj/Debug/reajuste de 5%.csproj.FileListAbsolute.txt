@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\reajuste de 5%\reajuste de 5%\bin\Debug\reajuste de 5%.exe.config
+C:\Users\joao.maoqui\Documents\C#\reajuste de 5%\reajuste de 5%\bin\Debug\reajuste de 5%.exe
+C:\Users\joao.maoqui\Documents\C#\reajuste de 5%\reajuste de 5%\bin\Debug\reajuste de 5%.pdb
+C:\Users\joao.maoqui\Documents\C#\reajuste de 5%\reajuste de 5%\obj\Debug\reajuste de 5%.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\reajuste de 5%\reajuste de 5%\obj\Debug\reajuste de 5%.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\reajuste de 5%\reajuste de 5%\obj\Debug\reajuste de 5%.exe
+C:\Users\joao.maoqui\Documents\C#\reajuste de 5%\reajuste de 5%\obj\Debug\reajuste de 5%.pdb

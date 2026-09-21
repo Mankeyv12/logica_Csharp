@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\verdadeiro ou falso\verdadeiro ou falso\bin\Debug\verdadeiro ou falso.exe.config
+C:\Users\joao.maoqui\Documents\C#\verdadeiro ou falso\verdadeiro ou falso\bin\Debug\verdadeiro ou falso.exe
+C:\Users\joao.maoqui\Documents\C#\verdadeiro ou falso\verdadeiro ou falso\bin\Debug\verdadeiro ou falso.pdb
+C:\Users\joao.maoqui\Documents\C#\verdadeiro ou falso\verdadeiro ou falso\obj\Debug\verdadeiro ou falso.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\verdadeiro ou falso\verdadeiro ou falso\obj\Debug\verdadeiro ou falso.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\verdadeiro ou falso\verdadeiro ou falso\obj\Debug\verdadeiro ou falso.exe
+C:\Users\joao.maoqui\Documents\C#\verdadeiro ou falso\verdadeiro ou falso\obj\Debug\verdadeiro ou falso.pdb
