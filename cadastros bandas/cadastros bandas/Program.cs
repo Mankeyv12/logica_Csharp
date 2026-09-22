@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
+using System.Diagnostics;
 namespace cadastros_bandas
 {
     internal class Program
@@ -43,7 +44,7 @@ namespace cadastros_bandas
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine(" 1 - cadastrar album da banda");
                 Console.WriteLine(" 2 - cadastrar album do artista");
-                Console.WriteLine(" 3 - cadastrar musicas");
+                Console.WriteLine(" 3 - cadastrar musicas");// digitar a qtd musicas( nome musica, duração,premiação)
                 Console.WriteLine(" 4 - sair do programa");
                 Console.WriteLine("------------>");
                 Console.ResetColor();
@@ -58,6 +59,7 @@ namespace cadastros_bandas
                         album_artista();
                         break;
                     case 3:
+                        cadastro_musicas();
                         break;
                     case 4:
                         Console.Clear();
@@ -135,7 +137,28 @@ namespace cadastros_bandas
             Console.WriteLine("\n" + qtd_vendas);
             Thread.Sleep(3000);
         }
+        static void cadastro_musicas()
+        {
+            int qtdMusica;
+            string nomeMusica, premiação, duraçao;
+            
+            Console.WriteLine("digite a qtd de musica: ");
+            qtdMusica = int.Parse(Console.ReadLine());
+            Console.WriteLine("digite a duração da musica: ");
+            duraçao = Console.ReadLine();
+            Console.WriteLine("digite o nome da musica: ");
+            nomeMusica = Console.ReadLine();
+            Console.WriteLine("digite a premiação: ");
+            premiação = Console.ReadLine();
+            
 
+            Console.WriteLine("\n cadastro realizado com sucesso");
+            Console.WriteLine("\n" + qtdMusica);
+            Console.WriteLine("\n" + duraçao);
+            Console.WriteLine("\n " + nomeMusica);
+            Console.WriteLine("\n " + premiação);
+            Thread.Sleep(3000);
+        }
 
     }
 }

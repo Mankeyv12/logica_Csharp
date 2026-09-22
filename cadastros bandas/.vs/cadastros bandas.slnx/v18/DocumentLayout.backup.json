@@ -5,6 +5,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{81A0E25E-9A0D-43A5-A1BB-74BA5B66D59F}|cadastros bandas\\cadastros bandas.csproj|c:\\users\\joao.maoqui\\documents\\c#\\cadastros bandas\\cadastros bandas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81A0E25E-9A0D-43A5-A1BB-74BA5B66D59F}|cadastros bandas\\cadastros bandas.csproj|solutionrelative:cadastros bandas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|cadastros bandas||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0E25E-9A0D-43A5-A1BB-74BA5B66D59F}|cadastros bandas\\cadastros bandas.csproj|c:\\users\\joao.maoqui\\documents\\c#\\cadastros bandas\\cadastros bandas\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +28,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cadastros bandas",
+              "DocumentMoniker": "C:\\Users\\joao.maoqui\\Documents\\C#\\cadastros bandas\\cadastros bandas\\cadastros bandas.csproj",
+              "RelativeDocumentMoniker": "cadastros bandas\\cadastros bandas.csproj",
+              "ToolTip": "C:\\Users\\joao.maoqui\\Documents\\C#\\cadastros bandas\\cadastros bandas\\cadastros bandas.csproj",
+              "RelativeToolTip": "cadastros bandas\\cadastros bandas.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-22T11:37:14.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joao.maoqui\\Documents\\C#\\cadastros bandas\\cadastros bandas\\Program.cs",
               "RelativeDocumentMoniker": "cadastros bandas\\Program.cs",
-              "ToolTip": "C:\\Users\\joao.maoqui\\Documents\\C#\\cadastros bandas\\cadastros bandas\\Program.cs*",
-              "RelativeToolTip": "cadastros bandas\\Program.cs*",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAkwIcAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\joao.maoqui\\Documents\\C#\\cadastros bandas\\cadastros bandas\\Program.cs",
+              "RelativeToolTip": "cadastros bandas\\Program.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAIwJEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T13:25:13.797Z",
               "EditorCaption": ""
