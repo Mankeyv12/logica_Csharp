@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\anos vivos\anos vivos\bin\Debug\anos vivos.exe.config
+C:\Users\joao.maoqui\Documents\C#\anos vivos\anos vivos\bin\Debug\anos vivos.exe
+C:\Users\joao.maoqui\Documents\C#\anos vivos\anos vivos\bin\Debug\anos vivos.pdb
+C:\Users\joao.maoqui\Documents\C#\anos vivos\anos vivos\obj\Debug\anos vivos.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\anos vivos\anos vivos\obj\Debug\anos vivos.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\anos vivos\anos vivos\obj\Debug\anos vivos.exe
+C:\Users\joao.maoqui\Documents\C#\anos vivos\anos vivos\obj\Debug\anos vivos.pdb

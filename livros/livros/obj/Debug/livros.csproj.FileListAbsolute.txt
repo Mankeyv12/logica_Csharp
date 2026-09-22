@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\livros\livros\obj\Debug\livros.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\livros\livros\obj\Debug\livros.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\livros\livros\bin\Debug\livros.exe.config
+C:\Users\joao.maoqui\Documents\C#\livros\livros\bin\Debug\livros.exe
+C:\Users\joao.maoqui\Documents\C#\livros\livros\bin\Debug\livros.pdb
+C:\Users\joao.maoqui\Documents\C#\livros\livros\obj\Debug\livros.exe
+C:\Users\joao.maoqui\Documents\C#\livros\livros\obj\Debug\livros.pdb

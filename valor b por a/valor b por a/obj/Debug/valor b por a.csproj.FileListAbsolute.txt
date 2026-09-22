@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\valor b por a\valor b por a\bin\Debug\valor b por a.exe.config
+C:\Users\joao.maoqui\Documents\C#\valor b por a\valor b por a\bin\Debug\valor b por a.exe
+C:\Users\joao.maoqui\Documents\C#\valor b por a\valor b por a\bin\Debug\valor b por a.pdb
+C:\Users\joao.maoqui\Documents\C#\valor b por a\valor b por a\obj\Debug\valor b por a.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\valor b por a\valor b por a\obj\Debug\valor b por a.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\valor b por a\valor b por a\obj\Debug\valor b por a.exe
+C:\Users\joao.maoqui\Documents\C#\valor b por a\valor b por a\obj\Debug\valor b por a.pdb
