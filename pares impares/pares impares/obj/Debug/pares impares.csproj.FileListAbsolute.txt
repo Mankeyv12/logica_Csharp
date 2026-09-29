@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\pares impares\pares impares\obj\Debug\pares impares.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\pares impares\pares impares\obj\Debug\pares impares.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\pares impares\pares impares\bin\Debug\pares impares.exe.config
+C:\Users\joao.maoqui\Documents\C#\pares impares\pares impares\bin\Debug\pares impares.exe
+C:\Users\joao.maoqui\Documents\C#\pares impares\pares impares\bin\Debug\pares impares.pdb
+C:\Users\joao.maoqui\Documents\C#\pares impares\pares impares\obj\Debug\pares impares.exe
+C:\Users\joao.maoqui\Documents\C#\pares impares\pares impares\obj\Debug\pares impares.pdb
