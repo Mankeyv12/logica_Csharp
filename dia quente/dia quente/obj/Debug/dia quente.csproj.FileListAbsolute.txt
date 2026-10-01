@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\dia quente\dia quente\bin\Debug\dia quente.exe.config
+C:\Users\joao.maoqui\Documents\C#\dia quente\dia quente\bin\Debug\dia quente.exe
+C:\Users\joao.maoqui\Documents\C#\dia quente\dia quente\bin\Debug\dia quente.pdb
+C:\Users\joao.maoqui\Documents\C#\dia quente\dia quente\obj\Debug\dia quente.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\dia quente\dia quente\obj\Debug\dia quente.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\dia quente\dia quente\obj\Debug\dia quente.exe
+C:\Users\joao.maoqui\Documents\C#\dia quente\dia quente\obj\Debug\dia quente.pdb

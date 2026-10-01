@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\podologia]\podologia]\bin\Debug\podologia].exe.config
+C:\Users\joao.maoqui\Documents\C#\podologia]\podologia]\bin\Debug\podologia].exe
+C:\Users\joao.maoqui\Documents\C#\podologia]\podologia]\bin\Debug\podologia].pdb
+C:\Users\joao.maoqui\Documents\C#\podologia]\podologia]\obj\Debug\podologia].csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\podologia]\podologia]\obj\Debug\podologia].csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\podologia]\podologia]\obj\Debug\podologia].exe
+C:\Users\joao.maoqui\Documents\C#\podologia]\podologia]\obj\Debug\podologia].pdb

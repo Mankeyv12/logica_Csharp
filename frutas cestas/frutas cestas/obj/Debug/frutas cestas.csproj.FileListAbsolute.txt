@@ -1,0 +1,7 @@
+C:\Users\joao.maoqui\Documents\C#\frutas cestas\frutas cestas\bin\Debug\frutas cestas.exe.config
+C:\Users\joao.maoqui\Documents\C#\frutas cestas\frutas cestas\bin\Debug\frutas cestas.exe
+C:\Users\joao.maoqui\Documents\C#\frutas cestas\frutas cestas\bin\Debug\frutas cestas.pdb
+C:\Users\joao.maoqui\Documents\C#\frutas cestas\frutas cestas\obj\Debug\frutas cestas.csproj.AssemblyReference.cache
+C:\Users\joao.maoqui\Documents\C#\frutas cestas\frutas cestas\obj\Debug\frutas cestas.csproj.CoreCompileInputs.cache
+C:\Users\joao.maoqui\Documents\C#\frutas cestas\frutas cestas\obj\Debug\frutas cestas.exe
+C:\Users\joao.maoqui\Documents\C#\frutas cestas\frutas cestas\obj\Debug\frutas cestas.pdb
